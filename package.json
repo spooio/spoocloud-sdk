@@ -1,6 +1,6 @@
 {
   "name": "spoocloud-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official JavaScript SDK for SPOO Cloud",
   "main": "spoocloud.js",
   "scripts": {

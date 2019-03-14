@@ -12,7 +12,7 @@ Full documentation can be found at `https://spoo.io/docs`
 
 Browser:
 
-`<script src="https://spoo.io/code/spoo-cloud.min.js"></script>`
+`<script src="https://spoo.io/code/spoocloud.min.js"></script>`
 
 npm:
 
