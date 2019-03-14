@@ -2,6 +2,9 @@
 
 Official JavaScript SDK for SPOO Cloud
 
+Fulle documentation can be found at `https://spoo.io/docs`
+
+
 ## Installation:
 
 Browser:
