@@ -1,8 +1,11 @@
 # spoocloud-js
 
-Official JavaScript SDK for SPOO Cloud
+Official JavaScript SDK for SPOO Cloud beta
 
-Fulle documentation can be found at `https://spoo.io/docs`
+Full documentation can be found at `https://spoo.io/docs`
+
+
+### IMPORTANT: This SDK is in beta
 
 
 ## Installation:
