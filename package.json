@@ -1,0 +1,27 @@
+{
+  "name": "spoocloud-js",
+  "version": "1.0.0",
+  "description": "Official JavaScript SDK for SPOO Cloud",
+  "main": "spoocloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spooio/spoocloud-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "sdk",
+    "cloud",
+    "objects"
+  ],
+  "author": "Marco Boelling",
+  "license": "ISC",
+  "homepage": "https://spoo.io/developer",
+  "dependencies": {
+    "node-localstorage": "^1.3.1",
+    "sessionstorage": "^0.1.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
