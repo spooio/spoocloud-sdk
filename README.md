@@ -112,22 +112,16 @@ Please refer to our [spoodev cli](https://www.npmjs.com/package/spoodev-cli) to 
 If you'd like to link your app to the App Store, login to [SPOO Console](https://spoo.io/console) and click the publish button in the upper right corner.
 
 
-## Contributing
-
-Please read [Contributing.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Marco Boelling** - *Initial work* - [Twitter](https://twitter.com/marcoboelling)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Further reading
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* For more information on SPOO, go to [spoo.io](https://spoo.io)
+* [SPOO on Medium](https://medium.com/spoo-io)
 
