@@ -791,7 +791,7 @@ An event can either be defined as **recurring** or **one time**.
 
 > Recurring Event 
 
-```json
+```javascript
 {
 	"reminder": {
 		"type" : "event",
@@ -803,7 +803,7 @@ An event can either be defined as **recurring** or **one time**.
 
 > One time Event 
 
-```json
+```javascript
 {
 	"dueDate": {
 		"type" : "event",
