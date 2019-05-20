@@ -22,7 +22,7 @@ This SDK can be used in any JavaScript Environment. You can get in via npm or vi
 ### Browser
 
 ```html
-<script src="https://spoo.io/code/spoocloud.min.js"></script>
+<script src="https://spoo.io/code/spoo-cloud.min.js"></script>
 ```
 
 ### NPM

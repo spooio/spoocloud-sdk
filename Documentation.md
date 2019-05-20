@@ -29,7 +29,7 @@ Get it from npm or via spoo.io
 
 
 ```html
-<script src="https://spoo.io/code/spoocloud.min.js"></script>
+<script src="https://spoo.io/code/spoo-cloud.min.js"></script>
 ```
 
 or
